@@ -40,13 +40,13 @@ Some key points to bear in mind while you work through this...
 
 This is a short recap of some command line, git and Node.js stuff. There's no need to follow along in your editor, since this repo already has the stuff set up for you.
 
-**Open the video in the screencasts repo** (or use [youtube](https://youtu.be/8nFKgX53dgk))
+[**Open screencast**](https://adaapp.github.io/screencasts/person-workshop-1/index.html) (or use [youtube](https://youtu.be/8nFKgX53dgk))
 
 ## 2. Test driving a new class
 
 We'll walk throught the process of creating a class, practicing OOP and TDD as we go. Follow along in your editor as you watch the video.
 
-**Open the video in the screencasts repo** (or use [youtube](https://youtu.be/T0LDcCN9FUM))
+[**Open screencast**](https://adaapp.github.io/screencasts/person-workshop-2/index.html) (or use [youtube](https://youtu.be/T0LDcCN9FUM))
 
 ⚠️ Make sure you've implemented everything in the video before moving on to the next section. And **make sure you've commited your work**.
 
@@ -94,7 +94,7 @@ Phone Numbers:
 
 Watch the video to the end first, then rewind and follow along in your project.
 
-**Open the video in the screencasts repo** (or use [youtube](https://youtu.be/xBxovz2p78Q))
+[**Open screencast**](https://adaapp.github.io/screencasts/person-workshop-3/index.html) (or use [youtube](https://youtu.be/xBxovz2p78Q))
 
 ⚠️ Make sure you've implemented everything in the video before moving on to the next section. And **make sure you've commited your work**.
 
