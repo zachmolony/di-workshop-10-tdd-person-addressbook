@@ -26,7 +26,7 @@ Some key points to bear in mind while you work through this...
 | ES2015 Syntax       | Equivilent Syntax |
 | ------------------- | ----------------- |
 | `()=> {}`           | `function() {}`   |
-| `const foo = 'bar'` | `var foo = 'bar'` |
+| `const thing = 'something'` | `var thing = 'something'` |
 
 ### Things we'll recap during this workshop
 
