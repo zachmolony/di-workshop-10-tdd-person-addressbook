@@ -111,8 +111,8 @@ pet2 = new Pet('Rover', 'dog')
 pet2 = new Pet('Nemo', 'goldfish')
 
 pet1.sound() //=> 'Meow'
-pet1.sound() //=> 'Woof'
-pet1.sound() //=> 'Blub'
+pet2.sound() //=> 'Woof'
+pet3.sound() //=> 'Blub'
 
 person.addPet(pet1)
 person.addPet(pet2)
