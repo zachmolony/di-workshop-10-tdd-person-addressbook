@@ -17,7 +17,7 @@ Here's the format for this workshop:
 
 Some key points to bear in mind while you work through this...
 
-- There's nothing _fundamentally_ new in here. We're joining together a bunch of concepts we've already covered. This as a chance to **practice** and consolidate your learning.
+- There's nothing _fundamentally_ new in here. We're joining together a bunch of concepts we've already covered. This is a chance to **practice** and consolidate your learning.
 - Because of this, the videos go at a slightly faster pace than previous ones - use the ⏸ button if you need to!
 - It's okay if you don't finish this workshop, but if you take the time to do it you'll find the assignments easier to complete.
 - Unlike other workshops, there are no questions to answer in the `README.md`.
@@ -101,7 +101,7 @@ Watch the video to the end first, then rewind and follow along in your project.
 ## 5. Task 2 - most people should complete these
 
 1. Implement a `findByFirstName()` method on `AddressBook` which takes a search term as a string and returns an array of all the people whose first names match the string.
-2. Implement a similar method for seatching by surname.
+2. Implement a similar method for searching by surname.
 3. Add a `Pet` class and a `addPet()` method to `Person` that works something like this:
 
 ```js
@@ -128,7 +128,7 @@ Add a `save()` method to your addressbook that saves all of the data in it to a 
 
 If you fancy a challenge, work on improving your address book. Here are some ideas:
 
-- Make your searche methods fuzzy, so they also allow partial matches.
+- Make your search methods fuzzy, so they also allow partial matches.
 - Look for abstractions and opportunities to refactor your code.
 - Add a `print()` method to the address book that prints all of the entries' details out to the console (don't bother writing tests for this one - testing output to the console is hard).
 - Add a static `load()` method to your `AddressBook` that takes the path to an `addressBook.json` file, loads the data and returns a pre-populated `AddressBook` instance.
