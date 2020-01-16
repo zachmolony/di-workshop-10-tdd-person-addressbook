@@ -16,4 +16,22 @@ describe('Person', () => {
         expect(person.email).to.deep.equal([])
     })
 
+    it('should capitalise', () => {
+        var person = new Person('abby', 'yeah', '09/07/2001')
+
+        expect(person.first).to.equal('Abby')
+    })
+
+    it('should return a full name', () => {
+        var person = new Person('Zach', 'Molony', '09/07/2001')
+
+        expect(person.fullName()).to.equal('Zach Molony')
+    })
+
+    it('should accept new emails', () => {
+        var person = new Person('Zach', 'Molony', '09/07/2001')
+
+        person.addEmail('zach@gmail.com')
+        expect(person.email).to.deep.equal(['zach@gmail.com'])
+    })
 })
